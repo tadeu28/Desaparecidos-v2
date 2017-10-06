@@ -1,3 +1,13 @@
+﻿<block:999,0,10,10,300,center,Desaparecidos>
+PARABÉNS!
+Acredito que agora você seja um cidadão mais informado,
+que conhece um pouco mais sobre o processo
+executado pelos policiais e investigadores
+da Delegacia de Descoberta de Paradeiro da 
+Polícia Civil. Informações e Aprendizado é
+sempre muito valioso.
+</block>
+
 <block:-1,-1,10,10,offbot,center,Desaparecidos>
 \c[2]CRÉDITOS
 
@@ -48,11 +58,5 @@ o mapeamento deste processo.
 </block>
 
 <block:999,0,10,10,300,center,Desaparecidos>
-PARABÉNS!
-Acredito que agora você seja um cidadão mais informado,
-que conhece um pouco mais sobre o processo
-executado pelos policiais e investigadores
-da Delegacia de Descoberta de Paradeiro da 
-Polícia Civil. Informações e Aprendizado é
-sempre muito valioso.
+FIM!
 </block>
